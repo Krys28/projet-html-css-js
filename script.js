@@ -1,0 +1,7 @@
+functiondireBonjour()
+
+{
+
+alert("Bonjour");
+
+}
